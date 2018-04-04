@@ -26,4 +26,4 @@
   - NextTest - отвечает за постраничный вывод тестов
   - Result - компонент итогового вывода 
 
-Реализация - Production под NodeJS
+<i>Реализация - Production под NodeJS</i>
