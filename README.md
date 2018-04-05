@@ -1,6 +1,6 @@
 # Simple-Testing-App
 
-<p align="center"><img width="80%" height="80%" src="image.png" /></p>
+<p align="center"><img src="video.gif" /></p>
 
 ## Основное задание
 
