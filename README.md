@@ -1,3 +1,4 @@
+<strong>ReactJS production </strong>
 # Simple-Testing-App
 
 <p align="center"><img src="video.gif" /></p>
@@ -25,5 +26,3 @@
   - App - родитель
   - NextTest - отвечает за постраничный вывод тестов
   - Result - компонент итогового вывода 
-
-<i>Реализация - Production под NodeJS</i>
